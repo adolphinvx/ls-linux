@@ -16,7 +16,7 @@ ls [OPTION]... [FILE]...
 
 PREPARATION
 --------------------------------------------------------------------------------
-"sudo apt-get install libbsd-dev "to install BSD library fisrt
+"sudo apt install libbsd-dev "to install BSD library fisrt
 
 DESCRIPTION
 --------------------------------------------------------------------------------
